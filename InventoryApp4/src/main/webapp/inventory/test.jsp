@@ -10,6 +10,7 @@
 
 <h1>This is a test</h1>
 <a href="/home.jsp">Home</a>
+this is inside inventory file
 
 </body>
 </html>
